@@ -25,6 +25,14 @@
 
 ---
 
+## 🛠 Tools & Technologies
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,mysql&perline=8" />
+</p>
+
+---
+
 # 🧑‍💻 Projects
 
 ### Smart Donation & Relief Management System
@@ -63,20 +71,20 @@ Responsive portfolio website built using HTML, CSS, and JavaScript.
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://linkedin.com/in/devanarayanan-sr-397b09348">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/mandrian-x">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github&style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="mailto:srdevanarayanan8@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://github.com/mandrian-x">
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 
 </p>
