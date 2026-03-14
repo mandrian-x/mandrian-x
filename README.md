@@ -75,6 +75,10 @@ Responsive portfolio website built using HTML, CSS, and JavaScript.
 <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github&style=for-the-badge"/>
 </a>
 
+<a href="mailto:srdevanarayanan8@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=for-the-badge"/>
+</a>
+
 </p>
 
 ---
