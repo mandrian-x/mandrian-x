@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devanarayanan S R</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Aspiring+Full+Stack+Developer;AI+%7C+Web+Development+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Aspiring+Full+Stack+Developer;Web+Development+Enthusiast" />
 </p>
 
 ---
