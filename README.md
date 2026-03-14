@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 - 🎓 B.Tech Computer Science Engineering Student  
 - 📍 Thiruvananthapuram, India  
@@ -25,7 +25,7 @@
 
 ---
 
-## 🛠 Tools & Technologies
+# 🛠 Tools & Technologies
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,mysql&perline=8" />
@@ -71,7 +71,7 @@ Responsive portfolio website built using HTML, CSS, and JavaScript.
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
