@@ -1,88 +1,84 @@
-# Hi 👋 I'm Devanarayanan S R
+<h1 align="center">Hi 👋, I'm Devanarayanan S R</h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Aspiring+Full+Stack+Developer;AI+%7C+Web+Development+Enthusiast)
-
-🎓 B.Tech Computer Science Engineering Student  
-📍 Thiruvananthapuram, India  
-💻 Aspiring Full-Stack Developer  
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Aspiring+Full+Stack+Developer;AI+%7C+Web+Development+Enthusiast" />
+</p>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-- 🎓 Computer Science Engineering student  
-- 💡 Interested in Full-Stack Development and Software Engineering  
+- 🎓 B.Tech Computer Science Engineering Student  
+- 📍 Thiruvananthapuram, India  
+- 💻 Passionate about Full-Stack Development & Software Engineering  
 - 🏢 PRO at IEDC  
 - 🌐 IEEE Webmaster  
 - 🤝 NSS Volunteer  
 
 ---
 
-# 🧠 Technical Skills
+# 🧠 Tech Stack
 
-![Java](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus)
-![C](https://img.shields.io/badge/C-grey?logo=c)
-![HTML](https://img.shields.io/badge/HTML-orange?logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
-![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
-![Java Swing](https://img.shields.io/badge/Java_Swing-red)
-
----
-
-# 🛠 Tools & Technologies
-
-![Git](https://img.shields.io/badge/Git-orange?logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
-![Android Studio](https://img.shields.io/badge/Android_Studio-green?logo=androidstudio)
-![VS Code](https://img.shields.io/badge/VS_Code-blue?logo=visualstudiocode)
-![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-blue?logo=mysql)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,html,css,mysql,git,github,vscode,androidstudio" />
+</p>
 
 ---
 
 # 🧑‍💻 Projects
 
 ### Smart Donation & Relief Management System
-Java + MySQL platform connecting donors and receivers with admin management features.
+Java + MySQL application connecting donors and receivers with admin management features.
 
 ### Portfolio Website
-Responsive portfolio built with HTML, CSS, and JavaScript showcasing projects and achievements.
+Responsive portfolio website built using HTML, CSS, and JavaScript.
 
 ---
 
 # 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mandrian-x&show_icons=true&theme=tokyonight)
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mandrian-x&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandrian-x&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
 # 🔥 GitHub Streak
 
-![GitHub streak](https://streak-stats.demolab.com/?user=mandrian-x&theme=tokyonight)
-
----
-
-# 📈 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mandrian-x&layout=compact&theme=tokyonight)
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=mandrian-x&theme=tokyonight"/>
+</p>
 
 ---
 
 # 🐍 Contribution Snake
 
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+<p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
+</p>
 
 ---
 
 # 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/devanarayanan-sr-397b09348)
+<p align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/mandrian-x)
+<a href="https://linkedin.com/in/devanarayanan-sr-397b09348">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge"/>
+</a>
 
-📧 Email: srdevanarayanan8@gmail.com
+<a href="https://github.com/mandrian-x">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github&style=for-the-badge"/>
+</a>
+
+</p>
 
 ---
 
-![](https://komarev.com/ghpvc/?username=mandrian-x)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=mandrian-x&color=blueviolet"/>
+</p>
