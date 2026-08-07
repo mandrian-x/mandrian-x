@@ -11,7 +11,7 @@
 - 🎓 B.Tech Computer Science Engineering Student  
 - 📍 Thiruvananthapuram, India  
 - 💻 Passionate about Full-Stack Development & Software Engineering  
-- 🏢 PRO at IEDC  
+- 🏢 Student Lead at IEDC  
 - 🌐 IEEE Webmaster  
 - 🤝 NSS Volunteer  
 
